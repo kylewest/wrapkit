@@ -1,11 +1,16 @@
 {
   "name": "wrapkit",
   "version": "1.0.0",
+  "homepage": "https://github.com/kylewest/wrapkit",
   "ignore": [
     "**/.*",
     "node_modules",
     "bower_components",
     "test",
     "tests"
-  ]
+    ],
+    "dependencies": {
+        "jquery": "~2.1.0",
+        "jquery-nicescroll": "*"
+    }
 }
