@@ -11,6 +11,6 @@
   "homepage": "https://github.com/kylewest/wrapkit",
   "dependencies": {
       "jquery": "~2",
-      "jquery-nicescroll": "*"
+      "jquery-nicescroll": "https://github.com/inuyaksa/jquery.nicescroll.git"
   }
 }
