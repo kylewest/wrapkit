@@ -1,0 +1,16 @@
+{
+  "name": "wrapkit",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kylewest/wrapkit.git"
+  },
+  "author": "Kyle West",
+  "homepage": "https://github.com/kylewest/wrapkit",
+  "dependencies": {
+      "jquery": "~2",
+      "jquery-nicescroll": "*"
+  }
+}
